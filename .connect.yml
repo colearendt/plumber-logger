@@ -1,0 +1,6 @@
+default:
+  content:
+  - title: Plumber Logger
+    name: "938cbc3e-4152-46b6-9e71-da3bc237194d"
+    path: ./
+    description: A Plumber API that logs requests (and responds to everything with 200)
