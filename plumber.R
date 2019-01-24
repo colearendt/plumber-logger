@@ -1,3 +1,4 @@
+library(magrittr)
 library(plumber)
 
 #* @apiTitle Plumber Logging API
